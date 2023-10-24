@@ -1,6 +1,6 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-    base: '/js-vite-blackjack/',
+    base: '/black-jack-with-js-and-vite/',
     plugins: []
 });
